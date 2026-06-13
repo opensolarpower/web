@@ -1,0 +1,24 @@
+# OpenSolar.cc
+
+OpenSolar.cc is an independent solar charity project founded by Sherry Liao in 2024, providing affordable solar power systems to off-grid communities in Africa.
+
+## First Shipment: Rwanda 2026
+
+50 solar home systems departed Shenzhen in mid-June 2026, expected in Kigali mid-August 2026.
+Page: https://opensolar.cc/rwanda-solar-shipment-2026.html
+
+## Technology
+
+Open-source smart microgrid using solar, wind, and hydro with low-voltage DC transmission.
+Page: https://opensolar.cc/tech.html
+
+## About
+
+Independent charity, not affiliated with opensolar.com.
+Page: https://opensolar.cc/about.html
+
+## Contact
+
+Email: news@opensolar.cc
+GitHub: https://github.com/opensolarpower
+Page: https://opensolar.cc/contact.html

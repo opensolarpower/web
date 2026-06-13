@@ -884,3 +884,30 @@ nav a.active {
   0% { transform: rotateY(0deg); }
   100% { transform: rotateY(360deg); }
 }
+
+/* Gallery grid */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+.gallery-item {
+  margin: 0;
+  border-radius: 8px;
+  overflow: hidden;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.1);
+}
+.gallery-item img,
+.gallery-item video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.gallery-item figcaption {
+  padding: 0.75rem 1rem;
+  font-size: 0.9rem;
+  color: #aaa;
+  text-align: center;
+}
